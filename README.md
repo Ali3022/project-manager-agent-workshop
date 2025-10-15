@@ -70,7 +70,7 @@ Create a `.env` file in the project directory:
 
 ```bash
 # Create .env file
-echo "GEMINI_API_KEY=your_api_key_here" > .env
+echo GEMINI_API_KEY=your_api_key_here > .env
 ```
 
 **🔗 Get your free API key**: [Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key)
